@@ -1,0 +1,4 @@
+{"name":"arun Doe","email":"ad@gmail.com","password":"$2a$10$rPXk81lwg4Ny2lEhnF/r2.oHdvDeWAz25Q9viMWJfaBTElw9a.2u6","role":"member","_id":"EEHODRLLHjcV1XJG"}
+{"name":"john Doe","email":"jd@gmail.com","password":"$2a$10$rHD4baVtGnxee/nQrSuRr.ebMgXa0Ljr.zvgA0pgm1aNfzVG0tM7i","role":"member","_id":"IEa4ko8QuEETDXUI"}
+{"name":"pp","email":"pp@gmail.com","password":"$2a$10$vwcfOmFWEsXAfdhxgAjVLO4AWcd2N/kfLzu3SpHYli.OQer19ugp6","role":"moderator","_id":"QJgZaNEnQaHTQIvm"}
+{"name":"dj Doe","email":"dj@gmail.com","password":"$2a$10$M.OiM3v53EyD96bYUZyQu.YDEZs.PPh9nHlXdLveSD9JirOL3xELm","role":"admin","_id":"ywCR29VmbPIOHvcz"}
